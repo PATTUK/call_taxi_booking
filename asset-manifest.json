@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/call_taxi_booking/static/css/main.546a690e.css",
-    "main.js": "/call_taxi_booking/static/js/main.3fcfb6e5.js",
+    "main.js": "/call_taxi_booking/static/js/main.01cf4855.js",
     "static/js/453.1a83123c.chunk.js": "/call_taxi_booking/static/js/453.1a83123c.chunk.js",
     "static/media/car4.jpg": "/call_taxi_booking/static/media/car4.3311c1153959fb52aeca.jpg",
     "static/media/car3.jpg": "/call_taxi_booking/static/media/car3.5e8d75cd848ef3d0b1b2.jpg",
@@ -9,11 +9,11 @@
     "static/media/car1.jpg": "/call_taxi_booking/static/media/car1.947dba54078e812271d5.jpg",
     "index.html": "/call_taxi_booking/index.html",
     "main.546a690e.css.map": "/call_taxi_booking/static/css/main.546a690e.css.map",
-    "main.3fcfb6e5.js.map": "/call_taxi_booking/static/js/main.3fcfb6e5.js.map",
+    "main.01cf4855.js.map": "/call_taxi_booking/static/js/main.01cf4855.js.map",
     "453.1a83123c.chunk.js.map": "/call_taxi_booking/static/js/453.1a83123c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.546a690e.css",
-    "static/js/main.3fcfb6e5.js"
+    "static/js/main.01cf4855.js"
   ]
 }
